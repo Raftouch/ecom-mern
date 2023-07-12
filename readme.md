@@ -21,6 +21,11 @@
 
 - [ ] Front
     - [x] i axios
-    - [ ] define types on HomePage
+    - [x] define types on HomePage (reducer hook)
+    - [x] define type for errors
+    - [x] create utils.ts
+    - [x] create components for loading and error
+    - [x] fetch products
     - [ ]
+
 
