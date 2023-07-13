@@ -2,11 +2,8 @@
     - [x] initial setup
     - [x] create folders: pages, components, types
     - [x] git repo
-    - [x] list products
-        - create product type
-        - create products array
-        - add product images
-        - render products
+    - [x] add profuct images
+    - [x] render products
     - [x] react routing
     - [x] pages: home, product by id/slug, navbar
 
