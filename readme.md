@@ -19,13 +19,15 @@
     - [x] configure app (get, listen)
     - [x] establish access to our products json (api/products)
 
-- [ ] Front
+- [x] Front
     - [x] i axios
     - [x] define types on HomePage (reducer hook)
     - [x] define type for errors
     - [x] create utils.ts
     - [x] create components for loading and error
     - [x] fetch products
-    - [ ]
+
+- [ ] Front & Back
+    - [ ] cors problem to be resolved
 
 
